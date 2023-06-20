@@ -10,9 +10,3 @@ this is my first text file
 this is my first text file
 this is my first text file
 
-<<<<<<< HEAD
-hi' my name is Ayala Rudnick!!
-=======
-hi' my name is ayala!!
->>>>>>> 124a0d11796e8ca9a4e67ece95396e0213f1333b
-adfhsfjgjdg
